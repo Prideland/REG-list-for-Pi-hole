@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: Adblock GMX
-! Version: 140720240149
-! Last modified: 14 Jul 2024 01:49 CEST
+! Version: 140720240156
+! Last modified: 14 Jul 2024 01:56 CEST
 
 
+||i0.gmx.net/image/134/
 ||i0.gmx.net/image/173/
 ||i0.gmx.net/image/224/
 ||i0.gmx.net/image/241/
@@ -12,4 +13,5 @@
 ||i0.gmx.net/image/322/
 ||i0.gmx.net/image/393/
 ||i0.gmx.net/image/487/
+||i0.gmx.net/image/420/
 ||i0.gmx.net/image/536/
