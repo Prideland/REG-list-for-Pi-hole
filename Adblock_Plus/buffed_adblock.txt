@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+! Title: Adblock Buffed.de
 ||buffed.de/screenshots/110x82/2009
 ||buffed.de/screenshots/110x82/2010
 ||buffed.de/screenshots/110x82/2011
