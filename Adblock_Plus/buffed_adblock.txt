@@ -1,21 +1,21 @@
 [Adblock Plus 2.0]
 ! Title: Adblock Buffed.de
-||buffed.de/screenshots/110x82/2009
-||buffed.de/screenshots/110x82/2010
-||buffed.de/screenshots/110x82/2011
-||buffed.de/screenshots/110x82/2012
-||buffed.de/screenshots/110x82/2013
-||buffed.de/screenshots/110x82/2014
-||buffed.de/screenshots/110x82/2015
-||buffed.de/screenshots/110x82/2016
-||buffed.de/screenshots/110x82/2017
-||buffed.de/screenshots/110x82/2018
-||buffed.de/screenshots/110x82/2019
-||buffed.de/screenshots/110x82/2020
-||buffed.de/screenshots/110x82/2021
-||buffed.de/screenshots/110x82/2022
-||buffed.de/screenshots/110x82/2023
-||buffed.de/screenshots/110x82/2024
+|buffed.de/screenshots/110x82/2009
+|buffed.de/screenshots/110x82/2010
+|buffed.de/screenshots/110x82/2011
+|buffed.de/screenshots/110x82/2012
+|buffed.de/screenshots/110x82/2013
+|buffed.de/screenshots/110x82/2014
+|buffed.de/screenshots/110x82/2015
+|buffed.de/screenshots/110x82/2016
+|buffed.de/screenshots/110x82/2017
+|buffed.de/screenshots/110x82/2018
+|buffed.de/screenshots/110x82/2019
+|buffed.de/screenshots/110x82/2020
+|buffed.de/screenshots/110x82/2021
+|buffed.de/screenshots/110x82/2022
+|buffed.de/screenshots/110x82/2023
+|buffed.de/screenshots/110x82/2024
 ||buffed.de/screenshots/110x86/2009
 ||buffed.de/screenshots/110x86/2010
 ||buffed.de/screenshots/110x86/2011
