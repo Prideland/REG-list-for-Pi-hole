@@ -2,6 +2,7 @@
 #||edgekey.net^
 #||edgesuite.net^
 #||gravatar.com^
+#||mozgcp.net^
 
 
 0a0d-d3l1vr.b-cdn.net
@@ -20,6 +21,8 @@ ads-script.b-cdn.net
 ads-ttp2.us.tiktok.com.edgesuite.net
 ads.dailymail.co.uk.edgekey.net
 ads.mediaforge.com.edgekey.net
+ads.nonprod.webservices.mozgcp.net
+ads.prod.webservices.mozgcp.net
 ads.tiktok.com.edgekey.net
 ads.us.tiktok.com.edgesuite.net
 adservrs.com.edgekey.net
@@ -28,6 +31,7 @@ adsninja.b-cdn.net
 adstatic.b-cdn.net
 adverster.b-cdn.net
 advertising.amazon.com.edgekey.net
+affiliates.fakespot.nonprod.webservices.mozgcp.net
 ahoy-internal-ads-hv.b-cdn.net
 akacdn.doubleverify.com.edgekey.net
 akstat.io.edgekey.net
@@ -220,11 +224,14 @@ outbrainimg.com.edgekey.net
 owneriq.net.edgekey.net
 pangle-ads.com.edgesuite.net
 pangle.io.edgekey.net
+partner-ads-api.fakespot.nonprod.webservices.mozgcp.net
+partner-ads-api.fakespot.prod.webservices.mozgcp.net
 perf.teads.tv.edgekey.net
 performance-check.b-cdn.net
 pixel.mathtag.com.edgekey.net
 popcashjs.b-cdn.net
 predataclient.b-cdn.net
+prod.ads.prod.webservices.mozgcp.net
 push.io.edgekey.net
 pushlandings.b-cdn.net
 qualdnt.b-cdn.net
@@ -252,6 +259,7 @@ sp-wukong-tracker.b-cdn.net
 ssum-sec.casalemedia.com.edgekey.net
 ssum.casalemedia.com.edgekey.net
 st-fly.b-cdn.net
+stage.ads.nonprod.webservices.mozgcp.net
 star.ads.dailymail.co.uk.edgekey.net
 star2.cdn-pci.optimizely.com.edgekey.net
 stat.flashtalking.com.edgekey.net
@@ -274,6 +282,8 @@ taboola.com.edgekey.net
 tags.bluekai.com.edgekey.net
 teads.tv.edgekey.net
 ted.dailymail.co.uk.edgekey.net
+telemetry-airflow.nonprod.dataservices.mozgcp.net
+telemetry-airflow.prod.dataservices.mozgcp.net
 telemetry-web.api.playstation.com.edgekey.net
 track-dark-bz.b-cdn.net
 tracking.admarketplace.net.edgekey.net
@@ -385,6 +395,7 @@ yieldlab.net.edgekey.net
 ||1stpool.com^
 ||1tanitim.com^
 ||1tempurl.com^
+||2009tourdefrancenews.com^
 ||207.net^
 ||222bz.com^
 ||2345.com^
@@ -693,6 +704,7 @@ yieldlab.net.edgekey.net
 ||alibaba.ir^
 ||alibabacorp.com^
 ||alibabadns.com^
+||alicdn.com^
 ||alimama.com^
 ||alipay.com^
 ||alipay.net^
@@ -750,6 +762,7 @@ yieldlab.net.edgekey.net
 ||aniview.com^
 ||anmc-lb.com^
 ||annuaire-casino.net^
+||annuncierotici899.com^
 ||anomp.com^
 ||anondns.net^
 ||anquan.org^
@@ -954,6 +967,7 @@ yieldlab.net.edgekey.net
 ||baugesbikeacademie.fr^
 ||baustecifem.com^
 ||bawickie.com^
+||bayramoglugrup.net^
 ||bazaar.com^
 ||bazaarvoice.com^
 ||bb-search.com^
@@ -1015,6 +1029,7 @@ yieldlab.net.edgekey.net
 ||bet7k.com^
 ||betatem.com^
 ||betomultimarcas.com^
+||beyazcasino.net^
 ||bezeqint.net^
 ||bezpieczne-nieruchomosci.pl^
 ||bfast.com^
@@ -1171,6 +1186,7 @@ yieldlab.net.edgekey.net
 ||builders-iot.com^
 ||bukkakepee.com^
 ||bulog.jp^
+||buluttattoo.com^
 ||bunnysecuritytester.com^
 ||buntatukapro.com^
 ||buqual.net^
@@ -1180,6 +1196,7 @@ yieldlab.net.edgekey.net
 ||butectothe.com^
 ||buttobi.net^
 ||buy.com^
+||buysellads.com^
 ||bw.com^
 ||bxkejian.com^
 ||byethost18.com^
@@ -1211,6 +1228,7 @@ yieldlab.net.edgekey.net
 ||camdvr.org^
 ||camieandpetestrip.com^
 ||camp-gay.com^
+||campagne-online.com^
 ||camposeguro.com^
 ||canalblog.com^
 ||candy-network.com^
@@ -1272,6 +1290,7 @@ yieldlab.net.edgekey.net
 ||cbricdns.com^
 ||ccleaner.com^
 ||cd-media.net^
+||cdn-gw-dv.net^
 ||cdn-skype.com^
 ||cdn.privacy-mgmt.com^
 ||cdn77.org^
@@ -1482,6 +1501,7 @@ yieldlab.net.edgekey.net
 ||consultant-deloitte.com^
 ||contemplatethwartcooperation.com^
 ||contensis.com^
+||contentabc.com^
 ||contentdef.com^
 ||contentsquare.net^
 ||contextweb.com^
@@ -1516,6 +1536,7 @@ yieldlab.net.edgekey.net
 ||coull.com^
 ||coupons.com^
 ||coupteew.com^
+||covad.net^
 ||covid-bison.de^
 ||covid19-bw.com^
 ||covid19-jnj.com^
@@ -1755,6 +1776,7 @@ yieldlab.net.edgekey.net
 ||dnitv.com^
 ||dns04.com^
 ||dnsd.info^
+||dnset.com^
 ||dnsname.org^
 ||doakodufy.com^
 ||doggoneracing.com^
@@ -1819,6 +1841,7 @@ yieldlab.net.edgekey.net
 ||dvrdns.org^
 ||dvsmall.com^
 ||dwarfpool.com^
+||dwyu.com^
 ||dxpsites.net^
 ||dy4.de^
 ||dynamic-dns.net^
@@ -1826,6 +1849,7 @@ yieldlab.net.edgekey.net
 ||dynamify.com^
 ||dynatrace.com^
 ||dynu.com^
+||dynu.net^
 ||dynv6.net^
 ||dz.pl^
 ||dziedzic-nieruchomosci.pl^
@@ -2092,6 +2116,7 @@ yieldlab.net.edgekey.net
 ||figment.net^
 ||fiksu.com^
 ||filestube.com^
+||filesusr.com^
 ||finance-commerce.com^
 ||financialmarketsworld.com^
 ||finanz-insider.net^
@@ -2103,6 +2128,7 @@ yieldlab.net.edgekey.net
 ||firebaseapp.com^
 ||firebaseio.com^
 ||firefoxupdata.com^
+||firesub.pl^
 ||firstcloudit.com^
 ||fishdns.com^
 ||fissk.com^
@@ -2265,6 +2291,7 @@ yieldlab.net.edgekey.net
 ||gb.com^
 ||gb.net^
 ||gbdlaoied.com^
+||gbook.nl^
 ||gcpool.eu^
 ||ge.com^
 ||geaszxwgcxa.com^
@@ -2401,6 +2428,7 @@ yieldlab.net.edgekey.net
 ||guncelbulten.com^
 ||gvt2.com^
 ||gvt3.com^
+||gw-dv.net^
 ||gxso.net^
 ||h2poof.pw^
 ||haguenau-holdem-poker-club.com^
@@ -2447,6 +2475,7 @@ yieldlab.net.edgekey.net
 ||here.com^
 ||herokudns.com^
 ||hetxpand.be^
+||hexun.com^
 ||hey.com^
 ||hianiemal.com^
 ||hickorytech.net^
@@ -2479,6 +2508,8 @@ yieldlab.net.edgekey.net
 ||hivepokerqa.com^
 ||hk.com^
 ||hlcnzz.com^
+||hm-host.de^
+||hm-media.net^
 ||hmhdlive.com^
 ||hmt.fm^
 ||hn.org^
@@ -2537,6 +2568,7 @@ yieldlab.net.edgekey.net
 ||ht-egypt.com^
 ||htmlcomponentservice.com^
 ||htmlpasta.com^
+||httpool.com^
 ||https443.org^
 ||hu.com^
 ||hu.cz^
@@ -2550,14 +2582,17 @@ yieldlab.net.edgekey.net
 ||hydra-dealer.com^
 ||hyperbanner.net^
 ||hypermart.net^
+||hyperphp.com^
 ||hyprmx.com^
 ||i-gloo.net^
+||i12.com^
 ||i989.net^
 ||iadmob.com^
 ||ialokh.com^
 ||iamlgnd2.com^
 ||iberostar.com^
 ||ibkl.net^
+||ibrahimaybek.com^
 ||ic-live.com^
 ||icanbwell.com^
 ||ichi-no-ichi.com^
@@ -2591,6 +2626,7 @@ yieldlab.net.edgekey.net
 ||ijklp.net^
 ||ikewess.com^
 ||ikwb.com^
+||im-apps.net^
 ||imakraikuyo24-lpl.com^
 ||imane.com^
 ||imanmandegar.ir^
@@ -2638,6 +2674,7 @@ yieldlab.net.edgekey.net
 ||instantrevert.net^
 ||intellicontact.com^
 ||intellitxt.com^
+||intermiles.com^
 ||internet-census.org^
 ||internetdinamica.com^
 ||internetfuel.com^
@@ -2693,6 +2730,7 @@ yieldlab.net.edgekey.net
 ||itm973ll27o1.com^
 ||itm9l273lol2.com^
 ||itotolink.net^
+||itscom.jp^
 ||iumfragen.com^
 ||ivansantosmartinez.es^
 ||ivwbox.de^
@@ -2762,6 +2800,7 @@ yieldlab.net.edgekey.net
 ||justgreece.org^
 ||justpremium.com^
 ||k9.pl^
+||kabsi.at^
 ||kaditechsolutions.com^
 ||kahulasup.ch^
 ||kaitomm.app^
@@ -2770,6 +2809,7 @@ yieldlab.net.edgekey.net
 ||kameleoon.com^
 ||kameleoon.eu^
 ||kamfo.at^
+||kankan.com^
 ||kapancok.com^
 ||karneval.cz^
 ||kasperskyonline.ir^
@@ -2820,6 +2860,7 @@ yieldlab.net.edgekey.net
 ||koleksisyauqi.com^
 ||kom-co.jp^
 ||komornik.pl^
+||konyaterzi.com^
 ||kooboaphe.com^
 ||koocauboadoy.com^
 ||koogeoga.com^
@@ -2909,6 +2950,7 @@ yieldlab.net.edgekey.net
 ||liimragroup.com^
 ||lillycovid19testing.com^
 ||limitederor.info^
+||linea-erotica-899.com^
 ||linern.com^
 ||linewize.net^
 ||lingojam.com^
@@ -2940,6 +2982,7 @@ yieldlab.net.edgekey.net
 ||liveperson.net^
 ||liverail.com^
 ||livesexbook.com^
+||livestreamanalytic.com^
 ||llab.fr^
 ||llbonline-personal-manage.com^
 ||llc0526l35o.com^
@@ -2970,6 +3013,7 @@ yieldlab.net.edgekey.net
 ||lol-top.com^
 ||lol.net^
 ||lolipop.jp^
+||lolitahot.com^
 ||lomlismiskur.com^
 ||longbridgesocial.com^
 ||loozer.com^
@@ -3021,6 +3065,7 @@ yieldlab.net.edgekey.net
 ||madin-delices.com^
 ||madisonreserve.com^
 ||madserving.com^
+||magazine-fashion.com^
 ||magic-cent-casino.de^
 ||magikmobile.com^
 ||magnificentpool.com^
@@ -3079,6 +3124,7 @@ yieldlab.net.edgekey.net
 ||mediav.com^
 ||mediciland.com^
 ||meetrics.net^
+||mehmetkucukgoz.com^
 ||mein-check.com^
 ||meine-dateien.info^
 ||men4porn.com^
@@ -3125,17 +3171,20 @@ yieldlab.net.edgekey.net
 ||minnasundberg.fi^
 ||minutenws.com^
 ||mipujia.com^
+||misbaby.com^
 ||misecure.com^
 ||misslatex.com^
 ||misstrends.com^
 ||mistrox.pl^
 ||mitakian.com^
+||miui.com^
 ||miva.com^
 ||mixh.jp^
 ||mixpanel.com^
 ||mixuegefs.com^
 ||mizzzit.eu^
 ||mjjdfl.com^
+||mk-marketing.info^
 ||mktards.de^
 ||mktoresp.com^
 ||ml.org^
@@ -3193,7 +3242,6 @@ yieldlab.net.edgekey.net
 ||moviekiteer.com^
 ||movielinks.be^
 ||moviessportsnews.com^
-||mozgcp.net^
 ||mparticle.com^
 ||mperf.com^
 ||mphaotu.com^
@@ -3226,7 +3274,10 @@ yieldlab.net.edgekey.net
 ||mx-x.com^
 ||mxdigital897.com^
 ||my-beads.nl^
+||my-ceentrum24.com^
+||my-home-video.tv^
 ||my-mining-pool.de^
+||my-nissan-usa.com^
 ||my-website.app^
 ||my-wellsfargo4881-account.com^
 ||my03.com^
@@ -3300,7 +3351,6 @@ yieldlab.net.edgekey.net
 ||nahotseetsoo.com^
 ||naiadsystems.com^
 ||naigristoa.com^
-||naim.mk^
 ||najlepsze.net^
 ||nakanohito.jp^
 ||nakedusa.com^
@@ -3337,6 +3387,7 @@ yieldlab.net.edgekey.net
 ||neoncomunicazione.it^
 ||neowin.net^
 ||neptaunoop.com^
+||nesishoes.com^
 ||nespresso.com^
 ||net-accountverifizierung.com^
 ||net.nl^
@@ -3350,6 +3401,7 @@ yieldlab.net.edgekey.net
 ||netfirms.com^
 ||netflix-billing-adjust.com^
 ||netherweb.com^
+||netii.net^
 ||netlify.app^
 ||netlify.com^
 ||netpass.tv^
@@ -3438,6 +3490,7 @@ yieldlab.net.edgekey.net
 ||nr-data.net^
 ||nsatc.net^
 ||nsmpydfe.net^
+||nstrefa.pl^
 ||nszmz.com^
 ||ntelos.net^
 ||ntirslo.pl^
@@ -3474,6 +3527,7 @@ yieldlab.net.edgekey.net
 ||one-dot.de^
 ||one-it.net^
 ||onet.pl^
+||onetrust.com^
 ||onion.mn^
 ||onjoyri.de^
 ||online-bk.com^
@@ -3497,6 +3551,7 @@ yieldlab.net.edgekey.net
 ||onlinenederlandscasino.net^
 ||onlinenederlandscasino.org^
 ||onlinepornstar.com^
+||onlineslotsnews.com^
 ||onlinethehiddenepidemicbook.com^
 ||only4porn.com^
 ||onlyassigncoherence.com^
@@ -3596,6 +3651,7 @@ yieldlab.net.edgekey.net
 ||pardot.com^
 ||parfu.com^
 ||paripoorna.com^
+||parsely.com^
 ||parsonline.com^
 ||parttcularlythoipehplegeouip.com^
 ||parxcasino.com^
@@ -3623,6 +3679,7 @@ yieldlab.net.edgekey.net
 ||perimeterx.net^
 ||personal-directdebit-manage.com^
 ||personalbanking-manage.com^
+||perspektivbredband.net^
 ||peruanadepodologia.com^
 ||pesona.info^
 ||pet-magazine.net^
@@ -3753,6 +3810,7 @@ yieldlab.net.edgekey.net
 ||pornoamatoriali.net^
 ||pornoarchiv.cz^
 ||pornocarioca.com^
+||pornosite.com^
 ||pornototale.com^
 ||pornotribune.com^
 ||pornotribune.net^
@@ -3782,6 +3840,7 @@ yieldlab.net.edgekey.net
 ||precisionclick.com^
 ||preis-checker.net^
 ||premium-traveler.de^
+||premiumbilling.com^
 ||premiumboxes.com^
 ||prepaiddomain.de^
 ||prepettire.com^
@@ -3911,6 +3970,7 @@ yieldlab.net.edgekey.net
 ||raptorpool.org^
 ||rataku.com^
 ||rayjump.com^
+||rc-verify5.com^
 ||rcomhost.com^
 ||rdipotios.com^
 ||rdx.pl^
@@ -3932,9 +3992,12 @@ yieldlab.net.edgekey.net
 ||refannuaire.com^
 ||refund-govtax.com^
 ||refurbishedlaserscanners.com^
+||regine-lesite.com^
+||regs42.com^
 ||reigndesign.com^
 ||reisemagazin.de^
 ||reisen-deal.com^
+||rendyprotect.com^
 ||repair-centre.ca^
 ||reporo.net^
 ||reportecovid2020.com^
@@ -4015,6 +4078,7 @@ yieldlab.net.edgekey.net
 ||sakallizeytincilik.com^
 ||sales-frontier.com^
 ||salesfloor.net^
+||salesforce-sites.com^
 ||salon.com^
 ||sam4m.com^
 ||sampleresumes.org^
@@ -4089,6 +4153,7 @@ yieldlab.net.edgekey.net
 ||servebeer.com^
 ||serveblog.net^
 ||servecounterstrike.com^
+||servedby-buysellads.com^
 ||servedbyopenx.com^
 ||serveftp.com^
 ||servegame.com^
@@ -4108,6 +4173,7 @@ yieldlab.net.edgekey.net
 ||serving-sys.com^
 ||servint.net^
 ||servsummary.com^
+||sessotelefonoeroticobassocosto.com^
 ||setupmonarchyconnections.com^
 ||seven.com^
 ||sex-a2z.com^
@@ -4199,6 +4265,7 @@ yieldlab.net.edgekey.net
 ||shoes-cancan.com^
 ||shoes-life-com.com^
 ||shoesmogul.com^
+||shooawayreview.com^
 ||shoparena.pl^
 ||show.com^
 ||si.at^
@@ -4353,6 +4420,7 @@ yieldlab.net.edgekey.net
 ||storehomes.net^
 ||stormcorp.net^
 ||storymarketing-institut.de^
+||stratoserver.net^
 ||strefa.pl^
 ||strikekits.com^
 ||stroeerdigitalgroup.de^
@@ -4435,6 +4503,7 @@ yieldlab.net.edgekey.net
 ||tclclouds.com^
 ||tcoaee.com^
 ||td.com^
+||tds.net^
 ||tduou.com^
 ||teads.tv^
 ||tealiumiq.com^
@@ -4450,6 +4519,7 @@ yieldlab.net.edgekey.net
 ||teenxxxbest.com^
 ||teepotrn.com^
 ||tehran123.ir^
+||teknikcammarket.com^
 ||telecable.es^
 ||telecablenet.com^
 ||telecharger-avast.com^
@@ -4495,7 +4565,6 @@ yieldlab.net.edgekey.net
 ||themoneytizer.com^
 ||theplanet.com^
 ||theplanetvs.org^
-||theslots.mk^
 ||thesonderschools.com^
 ||thetaurusmansecrets.com^
 ||theworkpc.com^
@@ -4528,6 +4597,7 @@ yieldlab.net.edgekey.net
 ||togualf.net^
 ||toialae.com^
 ||tokensleader.com^
+||tolna.net^
 ||tonupmotors.com^
 ||tony.pl^
 ||tookustoath.com^
@@ -4625,6 +4695,7 @@ yieldlab.net.edgekey.net
 ||tubemogul.com^
 ||tubepornclassic.com^
 ||tubesmobile.com^
+||tucows.com^
 ||tuilayen.com^
 ||tuleceti.com^
 ||tumblr.com^
@@ -4642,6 +4713,7 @@ yieldlab.net.edgekey.net
 ||typepad.com^
 ||u-telcom.net^
 ||ubembed.com^
+||ucarelektrik.com^
 ||ucgalleries.com^
 ||ucoz.com^
 ||ucoz.pl^
@@ -4704,6 +4776,7 @@ yieldlab.net.edgekey.net
 ||us.org^
 ||useeweegnepe.com^
 ||useinsider.com^
+||userauthenticate-verifyalerts.com^
 ||usercash.com^
 ||users-sders.com^
 ||ushealthmarket.info^
@@ -4850,6 +4923,7 @@ yieldlab.net.edgekey.net
 ||vserver.de^
 ||vsipblocks.com^
 ||vstree.ca^
+||vtr.net^
 ||vu-betredirect1.com^
 ||vudaiksaidy.com^
 ||vulkanonline24.com^
@@ -4911,6 +4985,7 @@ yieldlab.net.edgekey.net
 ||webhostbox.net^
 ||webjump.com^
 ||webkent.net^
+||weblinker.nl^
 ||webmarketingrobot.com^
 ||webng.com^
 ||webnode.com^
@@ -4943,6 +5018,7 @@ yieldlab.net.edgekey.net
 ||wenusemeee.com^
 ||werdolsolt.com^
 ||west-vlaanderen.be^
+||westernunion.com^
 ||wetterkameras.com^
 ||wewaixor.com^
 ||wfconfirm.info^
@@ -5045,7 +5121,9 @@ yieldlab.net.edgekey.net
 ||wwamateurs.com^
 ||wwp.pl^
 ||www-1688.com^
+||www-nl-knab.com^
 ||www-polygon.com^
+||wyan.org^
 ||wyuzdane.org^
 ||wzjinhudie.com^
 ||wzrkt.com^
@@ -5077,6 +5155,7 @@ yieldlab.net.edgekey.net
 ||xhar8.sbs^
 ||xhash.net^
 ||xhtx0532.com^
+||xiachufang.com^
 ||xiaomi.com^
 ||xiaomi.net^
 ||xiaoyuyu.com^
@@ -5120,6 +5199,7 @@ yieldlab.net.edgekey.net
 ||xxxdiet.com^
 ||xxxgateway.com^
 ||xxxiexinyi.com^
+||xxxlivevideos.com^
 ||xxxpicturecontent.com^
 ||xxxr.jp^
 ||xxxred.net^
@@ -5144,6 +5224,7 @@ yieldlab.net.edgekey.net
 ||yewtreecottage.biz^
 ||ygto.com^
 ||yi.org^
+||yida558.com^
 ||yieldify-production.com^
 ||yieldmo.com^
 ||yimg.com^
@@ -5155,6 +5236,7 @@ yieldlab.net.edgekey.net
 ||you-search.com^
 ||you2.pl^
 ||youbuy.com^
+||youdontcare.com^
 ||youku.com^
 ||youmi.net^
 ||younetmedia.com^
@@ -5187,6 +5269,7 @@ yieldlab.net.edgekey.net
 ||zedo.com^
 ||zemanta.com^
 ||zendesk.com^
+||zenewsdujour.com^
 ||zero-limit-poker.com^
 ||zero-porn.com^
 ||zero-porn.net^
@@ -5210,6 +5293,7 @@ yieldlab.net.edgekey.net
 ||ziz66.com^
 ||zjlions.org^
 ||zloeporno.net^
+||znaptag.com^
 ||zoapteewoo.com^
 ||zoekvinden.nl^
 ||zone-turf.fr^
