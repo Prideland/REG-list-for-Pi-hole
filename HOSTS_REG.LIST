@@ -11,20 +11,10 @@ a.teads.tv.edgekey.net
 account.golem.de
 ad-serve.b-cdn.net
 ad-tech.nbcuni.com.edgesuite.net
-ad.intl.xiaomi.com.edgesuite.net
 adblockers.b-cdn.net
 addthis.com.edgekey.net
 admost-banner.b-cdn.net
 adobetag.com.edgekey.net
-ads-delivery.b-cdn.net
-ads-script.b-cdn.net
-ads-ttp2.us.tiktok.com.edgesuite.net
-ads.dailymail.co.uk.edgekey.net
-ads.mediaforge.com.edgekey.net
-ads.nonprod.webservices.mozgcp.net
-ads.prod.webservices.mozgcp.net
-ads.tiktok.com.edgekey.net
-ads.us.tiktok.com.edgesuite.net
 adservrs.com.edgekey.net
 adsimg.kompas.com.edgesuite.net
 adsninja.b-cdn.net
@@ -32,7 +22,6 @@ adstatic.b-cdn.net
 adverster.b-cdn.net
 advertising.amazon.com.edgekey.net
 affiliates.fakespot.nonprod.webservices.mozgcp.net
-ahoy-internal-ads-hv.b-cdn.net
 akacdn.doubleverify.com.edgekey.net
 akstat.io.edgekey.net
 aktrack.pubmatic.edgekey.net
@@ -42,7 +31,6 @@ analytics-ttp2.us.tiktok.com.edgesuite.net
 analytics.edgekey.net
 analytics.gmc.com.edgekey.net
 analytics.libertymutual.com.edgekey.net
-analytics.pangle-ads.com.edgesuite.net
 analytics.tiktok.com.edgekey.net
 aniview.com.edgekey.net
 api.vungle.com.edgekey.net
@@ -158,7 +146,6 @@ gdfhtrjtyjukrtzetzaerez.s3.us-east-2.amazonaws.com
 gdprcdn.b-cdn.net
 gecko-va.tiktokv.com.edgesuite.net
 geo.prod.do.dsp.mp.microsoft.com
-gg-ads.b-cdn.net
 ghrthryh.b-cdn.net
 global-wildcard.insightexpressai.com.edgekey.net
 go.aniview.com.edgekey.net
@@ -219,22 +206,17 @@ mybbc-analytics.files.bbci.co.uk.edgekey.net
 newwildcard.evidon.com.edgekey.net
 ntv.io.edgekey.net
 o3kyuku8zn8468pit1p6sdma8hd7xciaaszjp1xc.s3.eu-west-1.amazonaws.com
-odml.ad.intl.xiaomi.com.edgesuite.net
 optimizely.com.edgekey.net
 oracleinfinity.io.edgekey.net
 outbrain.com.edgekey.net
 outbrainimg.com.edgekey.net
 owneriq.net.edgekey.net
-pangle-ads.com.edgesuite.net
 pangle.io.edgekey.net
-partner-ads-api.fakespot.nonprod.webservices.mozgcp.net
-partner-ads-api.fakespot.prod.webservices.mozgcp.net
 perf.teads.tv.edgekey.net
 performance-check.b-cdn.net
 pixel.mathtag.com.edgekey.net
 popcashjs.b-cdn.net
 predataclient.b-cdn.net
-prod.ads.prod.webservices.mozgcp.net
 push.io.edgekey.net
 pushlandings.b-cdn.net
 qualdnt.b-cdn.net
@@ -242,7 +224,6 @@ r.casalemedia.com.edgekey.net
 r.teads.tv.edgekey.net
 rubiconproject.com-v1.edgekey.net
 rubiconproject.com.edgekey.net
-s-ads.innovid.com.edgekey.net
 s-cdn2.innovid.com.edgekey.net
 s-files.innovid.com.edgekey.net
 s-static.innovid.com.edgekey.net
@@ -262,8 +243,6 @@ sp-wukong-tracker.b-cdn.net
 ssum-sec.casalemedia.com.edgekey.net
 ssum.casalemedia.com.edgekey.net
 st-fly.b-cdn.net
-stage.ads.nonprod.webservices.mozgcp.net
-star.ads.dailymail.co.uk.edgekey.net
 star2.cdn-pci.optimizely.com.edgekey.net
 stat.flashtalking.com.edgekey.net
 static-tagr.gd1.mookie1.com.edgekey.net
@@ -295,12 +274,8 @@ troppulsee20epagwpubip02dns.westeurope.cloudapp.azure.com
 unibotscdn.b-cdn.net
 v.dable.io.edgekey.net
 v1.addthisedge.com.edgekey.net
-v16-ad.byteoversea.com.edgesuite.net
 v6analytics.htmedia.in.edgekey.net
 valueclick.com.edgekey.net
-video-ads-apex.rubiconproject.com.edgekey.net
-video-ads-module.ad-tech.nbcuni.com.edgesuite.net
-video-ads.rubiconproject.com-v1.edgekey.net
 video-outstream.rubiconproject.com.edgekey.net
 vungle.com.edgekey.net
 wfawjbxpux3qhbjzpjkerwc2h3rjsfcfrhf7j8xg.s3-us-west-1.amazonaws.com
@@ -429,10 +404,6 @@ yieldlab.net.edgekey.net
 ||247realmedia.com^
 ||24houcryptowatcher.com^
 ||24metrics.com^
-||24wulcan-casino.com^
-||24wulcan-casino.net^
-||24wulkan-casino.com^
-||24wulkan-casino.net^
 ||24x7s.com^
 ||253poker.com^
 ||25u.com^
@@ -539,7 +510,6 @@ yieldlab.net.edgekey.net
 ||MdjUUQbrHXjyrCnbbc.com^
 ||NmSnjgxTns.com^
 ||Umwolktobenhinerzahlt.go^
-||a-i-ad.com^
 ||a-mo.net^
 ||a-msedge.net^
 ||a-mx.com^
@@ -620,7 +590,6 @@ yieldlab.net.edgekey.net
 ||ad-delivery.net^
 ||ad-stir.com^
 ||ad-track.jp^
-||ad.jp^
 ||ad4game.com^
 ||ad4you.org^
 ||ad5track.com^
@@ -632,7 +601,6 @@ yieldlab.net.edgekey.net
 ||adalyser.com^
 ||adam4adam.com^
 ||adameve.com^
-||adaos-ads.net^
 ||adasweb.ir^
 ||adblade.com^
 ||adbrain.com^
@@ -720,10 +688,6 @@ yieldlab.net.edgekey.net
 ||adrianajanina.pl^
 ||adroll.com^
 ||adrta.com^
-||ads-twitter.com^
-||ads.gr^
-||ads.no^
-||ads.org^
 ||adsafeprotected.com^
 ||adsame.com^
 ||adscale.de^
@@ -758,8 +722,6 @@ yieldlab.net.edgekey.net
 ||adtiming.com^
 ||adtrackers.net^
 ||aduiz.com^
-||adult-arab.com^
-||adult-pages.de^
 ||adultbouncer.com^
 ||adultdreams.com^
 ||adultdvdempire.com^
@@ -804,7 +766,6 @@ yieldlab.net.edgekey.net
 ||agabreloomr.com^
 ||aganj.com^
 ||agency-asian-london.com^
-||agency-casino.com^
 ||agency-checking.com^
 ||agency-commerced.com^
 ||agency-dynamite.fr^
@@ -938,7 +899,6 @@ yieldlab.net.edgekey.net
 ||annaurban.com^
 ||annonz.ch^
 ||annonz.com^
-||annuaire-casino.net^
 ||annuncierotici899.com^
 ||anomp.com^
 ||anondns.net^
@@ -1096,7 +1056,6 @@ yieldlab.net.edgekey.net
 ||audrte.com^
 ||auiat5.com^
 ||aulsidakr.com^
-||aumrbit-casino.org^
 ||aungistam.com^
 ||auphirtie.com^
 ||auradroanums.com^
@@ -1188,7 +1147,6 @@ yieldlab.net.edgekey.net
 ||bandarqqpokerr.com^
 ||bannertrack.net^
 ||bannockfarmbureau.org^
-||banque-casino.fr^
 ||baofeng.com^
 ||bar-bar.com^
 ||bar-bi.fr^
@@ -1221,7 +1179,6 @@ yieldlab.net.edgekey.net
 ||bbva-pe.net^
 ||bbva.es^
 ||bc0a.com^
-||bcc-btc-casino.com^
 ||bcebos.com^
 ||bcfads.com^
 ||bcg.com^
@@ -1328,7 +1285,6 @@ yieldlab.net.edgekey.net
 ||bishopcarpenterschool.net^
 ||bissailre.com^
 ||bitballoon.com^
-||bitcoin-casino-reddit.com^
 ||bitcoin-casinos.at^
 ||bitcoin-pool.de^
 ||bitcoin-server.de^
@@ -1364,6 +1320,7 @@ yieldlab.net.edgekey.net
 ||blackcake.net^
 ||blackdicks.net^
 ||blackfriday.org^
+||blackpulp.com^
 ||blackshadesjj2k10no-ip.org^
 ||blackswangallery.be^
 ||blamads.com^
@@ -1424,7 +1381,6 @@ yieldlab.net.edgekey.net
 ||booru.org^
 ||boothoaphi.com^
 ||boreus.de^
-||boss-online-casino.com^
 ||botsaunirt.com^
 ||bottlerockethq.com^
 ||bouhaisaufy.com^
@@ -1433,7 +1389,6 @@ yieldlab.net.edgekey.net
 ||bouncex.net^
 ||bouptosaive.com^
 ||boutique-bijoux.com^
-||boutique-sexy-deluxe.com^
 ||bowhishapsee.com^
 ||box.com^
 ||box.net^
@@ -1474,7 +1429,6 @@ yieldlab.net.edgekey.net
 ||bs-sd.de^
 ||bs0-no-ip.org^
 ||bt.com^
-||btc-casino.com^
 ||btc.com^
 ||btcc.com^
 ||btcchina.com^
@@ -1529,7 +1483,6 @@ yieldlab.net.edgekey.net
 ||bytegsdk.com^
 ||byteoversea.com^
 ||bz-berlin.de^
-||bz-porn.com^
 ||bz.it^
 ||c-ctrip.com^
 ||c-msedge.net^
@@ -1587,29 +1540,6 @@ yieldlab.net.edgekey.net
 ||casalemedia.com^
 ||casema.nl^
 ||cash4toolbar.com^
-||casino-anwalt.de^
-||casino-arab.com^
-||casino-au-quebec.ca^
-||casino-backend.com^
-||casino-bw.com^
-||casino-en-ligne-quebec.ca^
-||casino-info.tv^
-||casino-pandora.com^
-||casino-softswiss.com^
-||casino-spielen.de^
-||casino.at^
-||casino.ch^
-||casino.com^
-||casino.cz^
-||casino.de^
-||casino.dk^
-||casino.eu^
-||casino.fr^
-||casino.gr^
-||casino.hu^
-||casino.nl^
-||casino.no^
-||casino.org^
 ||casinocolumbus.com^
 ||casinodave.com^
 ||casinodrive.fr^
@@ -1697,7 +1627,6 @@ yieldlab.net.edgekey.net
 ||cfa-uk.org^
 ||cfbx.jp^
 ||cfspart-ssl-impots-gouv.fr^
-||cg-casino.com^
 ||cgi65204373.com^
 ||cgiserver.net^
 ||cgocable.ca^
@@ -1805,7 +1734,6 @@ yieldlab.net.edgekey.net
 ||cloudpools.net^
 ||cltomedia.info^
 ||club-onlinecasino.org^
-||club-vulkan-casino.org^
 ||clubcorp.com^
 ||cluebeautys.com^
 ||cmail1.com^
@@ -1857,6 +1785,7 @@ yieldlab.net.edgekey.net
 ||colachiadvertising.com^
 ||colba.net^
 ||collect20.com^
+||collective-media.net^
 ||collegehumor.com^
 ||coloros.com^
 ||colossusssp.com^
@@ -1970,9 +1899,6 @@ yieldlab.net.edgekey.net
 ||coupteew.com^
 ||covad.net^
 ||covid-bison.de^
-||covid19-bw.com^
-||covid19-hr.com^
-||covid19-jnj.com^
 ||covid19comedy.com^
 ||covid19maping.com^
 ||covidhub.pl^
@@ -2163,7 +2089,6 @@ yieldlab.net.edgekey.net
 ||devisdirect.com^
 ||dewalinkqq.com^
 ||dfirma.pl^
-||dfnb-ads.com^
 ||dfxwdc.com^
 ||dgryapi.com^
 ||dgtmarket.com^
@@ -2274,7 +2199,6 @@ yieldlab.net.edgekey.net
 ||domdex.com^
 ||domino9.org^
 ||donaldjtrump.com^
-||donuts-roumu-xxx.de^
 ||doodledoo-no-ip.info^
 ||doordash.com^
 ||doppiocdn.com^
@@ -2313,7 +2237,6 @@ yieldlab.net.edgekey.net
 ||drei.at^
 ||drhawass.com^
 ||drift.com^
-||drive-porn.com^
 ||drive-user.com^
 ||driveadmin.com^
 ||driverupdate.net^
@@ -2490,7 +2413,6 @@ yieldlab.net.edgekey.net
 ||epsauthoup.com^
 ||epungoovagno.com^
 ||eqads.com^
-||er-sucht-sex.de^
 ||er.cz^
 ||er.de^
 ||erasercash.com^
@@ -2579,7 +2501,6 @@ yieldlab.net.edgekey.net
 ||exmasters.com^
 ||exoclick.com^
 ||experian.com^
-||expert-casino.info^
 ||expert-rainwater-harvester.com^
 ||expobarrio.com^
 ||exponea.com^
@@ -2770,7 +2691,6 @@ yieldlab.net.edgekey.net
 ||formulacountess.com^
 ||formyourcareer.com^
 ||fornex.org^
-||forsale-sex.com^
 ||forter.com^
 ||fortudios-wriefs.com^
 ||forumactif.com^
@@ -2797,7 +2717,6 @@ yieldlab.net.edgekey.net
 ||free-aja.com^
 ||free-albums.net^
 ||free-bb.com^
-||free-black-sex-pictures.com^
 ||free-contenu.com^
 ||free-datings.com^
 ||free-downloads.net^
@@ -2810,13 +2729,10 @@ yieldlab.net.edgekey.net
 ||free-livejasmin.com^
 ||free-picture-search.com^
 ||free-press-release.com^
-||free-sex-porn-galleries.com^
 ||free-site-alley.com^
 ||free-video-porno.fr^
 ||free-xhamster.com^
 ||free-xvideos.com^
-||free-xxx-planet.com^
-||free-xxx-sex.net^
 ||free.fr^
 ||freebloger.net^
 ||freeboxos.fr^
@@ -2910,7 +2826,6 @@ yieldlab.net.edgekey.net
 ||game-slots777.org^
 ||gameanalytics.com^
 ||gamesysgames.com^
-||gaming-adult.com^
 ||gamingweb.de^
 ||gammacdn.com^
 ||gammaplatform.com^
@@ -2926,7 +2841,6 @@ yieldlab.net.edgekey.net
 ||gauwoocoasik.com^
 ||gay-brother-tom.com^
 ||gay-pagina.nl^
-||gay-xxx-search.com^
 ||gay2k.com^
 ||gaybodyblog.com^
 ||gayboystube.com^
@@ -2983,10 +2897,7 @@ yieldlab.net.edgekey.net
 ||gewerbe-meldung.de^
 ||gf-pics.com^
 ||gf-pics.net^
-||gf-porn.com^
-||gf-porn.org^
 ||gf-porno.com^
-||gf-sex.com^
 ||gfsrv.net^
 ||gfy.com^
 ||ggcib.com^
@@ -3008,7 +2919,6 @@ yieldlab.net.edgekey.net
 ||gitv.tv^
 ||gkcapp.com^
 ||gl-appspot.org^
-||gl-sex.com^
 ||glaickoxaksy.com^
 ||glaikristest.com^
 ||glam.com^
@@ -3022,7 +2932,6 @@ yieldlab.net.edgekey.net
 ||globaleaks.org^
 ||globalmedia.com^
 ||globaltrucker.com^
-||globo-porn.com^
 ||globo.com^
 ||globonet.hu^
 ||glocalnet.net^
@@ -3090,8 +2999,6 @@ yieldlab.net.edgekey.net
 ||gradedeoden.com^
 ||grainger.com^
 ||grammarly.com^
-||grand-casino.com^
-||grand-casino.net^
 ||grand-casino40.com^
 ||grand-casino45.com^
 ||grand-casino79.com^
@@ -3114,7 +3021,6 @@ yieldlab.net.edgekey.net
 ||grocery-fall.com^
 ||groovepages.com^
 ||group-hot.com^
-||group-sex-uk.com^
 ||grserver.gr^
 ||grupo-kapital.com^
 ||grupoeyp.es^
@@ -3127,7 +3033,6 @@ yieldlab.net.edgekey.net
 ||gucac.com^
 ||gucci-girls.com^
 ||gugurside.com^
-||guide-casino-quebec.ca^
 ||guidegoods.net^
 ||guideiexpert.com^
 ||gulfhirings.com^
@@ -3240,7 +3145,6 @@ yieldlab.net.edgekey.net
 ||hittail.com^
 ||hitv.com^
 ||hiv-covid.org^
-||hiv-covid19.com^
 ||hiveon.net^
 ||hivepokerpro.net^
 ||hivepokerqa.com^
@@ -3378,7 +3282,6 @@ yieldlab.net.edgekey.net
 ||ic24.net^
 ||icanbwell.com^
 ||icbc-center.com^
-||icbc-covid19.com^
 ||icbc-invest.com^
 ||iceporn.com^
 ||ichi-no-ichi.com^
@@ -3434,7 +3337,6 @@ yieldlab.net.edgekey.net
 ||imess.net^
 ||imlive.com^
 ||immediate-frontier.com^
-||impact-ad.jp^
 ||impactcdn.com^
 ||impactradius-event.com^
 ||imperium-nieruchomosci.pl^
@@ -3520,7 +3422,6 @@ yieldlab.net.edgekey.net
 ||international-kargo.com^
 ||internationalpathplanner.com^
 ||internationaltransplantinstitute.com^
-||internet-casino-spielen.de^
 ||internet-census.org^
 ||internetdinamica.com^
 ||internetfuel.com^
@@ -4072,7 +3973,6 @@ yieldlab.net.edgekey.net
 ||madisonreserve.com^
 ||madserving.com^
 ||magazine-fashion.com^
-||magic-cent-casino.de^
 ||magiccitycasino.net^
 ||magikmobile.com^
 ||magnificentpool.com^
@@ -4241,13 +4141,11 @@ yieldlab.net.edgekey.net
 ||ml314.com^
 ||mlatrmae.net^
 ||mm.pl^
-||mma-xxx.com^
 ||mmm-online.com^
 ||mmondi.com^
 ||mmstat.com^
 ||mmtro.com^
 ||mndsrv.com^
-||mng-ads.com^
 ||mng-kargo.com^
 ||mo-ro.com^
 ||mo.net^
@@ -4692,7 +4590,6 @@ yieldlab.net.edgekey.net
 ||okeyanueyiagufoundation.org^
 ||old-tom.com^
 ||olink.tv^
-||olympic-casino.com^
 ||olympic-poker.com^
 ||om-diamond.com^
 ||om-interior.com^
@@ -4711,7 +4608,6 @@ yieldlab.net.edgekey.net
 ||onderhost.com^
 ||one-dot.de^
 ||one-it.net^
-||one-xxx-in-one.com^
 ||one.com^
 ||one.pl^
 ||oneconcern.com^
@@ -4726,15 +4622,9 @@ yieldlab.net.edgekey.net
 ||onjoyri.de^
 ||online-advertisings.com^
 ||online-bk.com^
-||online-casino-gmsdeluxe.com^
-||online-casino-paytm.com^
 ||online-casino1.org^
 ||online-kargo.com^
 ||online-metrix.net^
-||online-sex-show.com^
-||online-vulkan-casino.net^
-||online-vulkan-casino.org^
-||online-xxx-show.com^
 ||online.fr^
 ||online147.com^
 ||onlineantiepidemic-material.com^
@@ -4770,7 +4660,6 @@ yieldlab.net.edgekey.net
 ||ooo-maturesex.com^
 ||ooo-momporn.com^
 ||ooo-ooo.info^
-||ooo-sex.com^
 ||ooo-tandem.net^
 ||ooo-tube.com^
 ||oopsooss.com^
@@ -4881,7 +4770,6 @@ yieldlab.net.edgekey.net
 ||pandemicbrands.com^
 ||pandora.com^
 ||pandora.tv^
-||pangle-ads.com^
 ||paomendieta.com^
 ||pardot.com^
 ||parfu.com^
@@ -4933,13 +4821,11 @@ yieldlab.net.edgekey.net
 ||peroksida.com^
 ||persianpussy.com^
 ||personal-directdebit-manage.com^
-||personal-sex-pages.de^
 ||personalbanking-manage.com^
 ||perspektivbredband.net^
 ||peruanadepodologia.com^
 ||pesona.info^
 ||pet-magazine.net^
-||pet-sex.com^
 ||pet-the-kitty.com^
 ||pet-toy-cn.com^
 ||petstare.com^
@@ -5019,7 +4905,6 @@ yieldlab.net.edgekey.net
 ||plokmirz.net^
 ||pltvs.pl^
 ||plus.com^
-||pn-casino.com^
 ||pnc.com^
 ||poagourait.com^
 ||poahoukeeche.com^
@@ -5072,15 +4957,6 @@ yieldlab.net.edgekey.net
 ||popupad.net^
 ||popupmoney.com^
 ||por.tv^
-||porn-adult-sexy.com^
-||porn-book.fr^
-||porn-deal.com^
-||porn-eros.com^
-||porn-movie-blog.com^
-||porn-one.com^
-||porn-xhamster.com^
-||porn-xvideos.com^
-||porn.fr^
 ||porn24horas.com^
 ||porn555.com^
 ||porn87.com^
@@ -5191,7 +5067,6 @@ yieldlab.net.edgekey.net
 ||printproyearbooks.com^
 ||privacy-mgmt.com^
 ||privacyporn.com^
-||private-sex-pages.de^
 ||privatedns.com^
 ||privateemail.com^
 ||privycy.info^
@@ -5393,7 +5268,6 @@ yieldlab.net.edgekey.net
 ||reisen-deal.com^
 ||relaytrk.info^
 ||remarketstats.com^
-||remboursement-impot-covid19-gouv.fr^
 ||rendyprotect.com^
 ||repair-centre.ca^
 ||reporo.net^
@@ -5405,7 +5279,6 @@ yieldlab.net.edgekey.net
 ||reson8.com^
 ||resourcez.com^
 ||ressithe.com^
-||restaurant-casino-mosta.com^
 ||result.eu^
 ||retargetly.com^
 ||returndates.com^
@@ -5501,7 +5374,6 @@ yieldlab.net.edgekey.net
 ||russxxx.com^
 ||ruvoozissy.com^
 ||rv-dds.nl^
-||rw-casino.com^
 ||rw-co.com^
 ||rwd-covid-19.net^
 ||rwd-covid-19.org^
@@ -5673,16 +5545,6 @@ yieldlab.net.edgekey.net
 ||setupcasino.com^
 ||setupmonarchyconnections.com^
 ||seven.com^
-||sex-a2z.com^
-||sex-dot.de^
-||sex-er.de^
-||sex-in.net^
-||sex-pagina.nl^
-||sex-sklep.pl^
-||sex-tom.com^
-||sex-tracker.com^
-||sex-vlaanderen.be^
-||sex-wo.lds.de^
 ||sexdates-vlaanderen.be^
 ||sexequalite.com^
 ||sexesporn.com^
@@ -5749,10 +5611,6 @@ yieldlab.net.edgekey.net
 ||sexwabbit.com^
 ||sexwackoff.com^
 ||sexwahn.de^
-||sexy-pages.de^
-||sexy-perle.com^
-||sexy-wo.lds.de^
-||sexy.com^
 ||sexybabesx.com^
 ||seznam.cz^
 ||sfcdn.org^
@@ -5854,7 +5712,6 @@ yieldlab.net.edgekey.net
 ||slaspa.com^
 ||slavicfamily.org^
 ||sleepyhighway.com^
-||sling-o-free-dog-fart-porn-sex.com^
 ||sling.com^
 ||slots-bar.com^
 ||slots-games-free-today.com^
@@ -5884,7 +5741,6 @@ yieldlab.net.edgekey.net
 ||sms13.de^
 ||smugmug.com^
 ||smutisp.com^
-||sn-covid19.com^
 ||snap-licdn.com^
 ||snapads.com^
 ||snapchatprime.com^
@@ -5928,7 +5784,6 @@ yieldlab.net.edgekey.net
 ||soulgame.com^
 ||sousinet.com^
 ||southolaitha.com^
-||soy-sexy-o-no.com^
 ||soy-una-puta.com^
 ||soy.es^
 ||sp-prod.net^
@@ -5991,7 +5846,6 @@ yieldlab.net.edgekey.net
 ||staples.com^
 ||star-oriental.com^
 ||star-show.com^
-||star-xxx.org^
 ||stargard.pl^
 ||starmedia.com^
 ||stars-nues-9.com^
@@ -6299,7 +6153,6 @@ yieldlab.net.edgekey.net
 ||top-100.pl^
 ||top-kekette.com^
 ||top-pagina.nl^
-||top-porn-deal.com^
 ||top-sexequalite.com^
 ||top-xhamster.com^
 ||top-xvideos.com^
@@ -6333,12 +6186,10 @@ yieldlab.net.edgekey.net
 ||tor2web.org^
 ||torgadroukr.com^
 ||torhelper.pl^
-||torimochi-ad.net^
 ||toroadvertising.com^
 ||toservers.com^
 ||tosima.de^
 ||total-free-hardcore.de^
-||total-free-sex.de^
 ||total-freesex.com^
 ||total-freesex.de^
 ||total.fr^
@@ -6677,7 +6528,6 @@ yieldlab.net.edgekey.net
 ||vocento.com^
 ||vochtplekken.be^
 ||vodeo.com^
-||vodka-sex.com^
 ||vodka.at^
 ||voffka.com^
 ||vogue.de^
@@ -6883,7 +6733,6 @@ yieldlab.net.edgekey.net
 ||wikaba.com^
 ||wildtangent.com^
 ||will-vs.com^
-||williamhill-casino-bonus.com^
 ||williamhill.com^
 ||williamhill.es^
 ||williamhill.it^
@@ -6927,7 +6776,6 @@ yieldlab.net.edgekey.net
 ||work-off.com^
 ||work-offer.com^
 ||work-proxy.info^
-||work-remotely-covid19.com^
 ||work-smart-for-2-much.com^
 ||work-vseti.com^
 ||works-ans.com^
@@ -7040,23 +6888,6 @@ yieldlab.net.edgekey.net
 ||xvideos.com^
 ||xxl-berater.de^
 ||xxuz.com^
-||xxx-alexa.com^
-||xxx-cdn.com^
-||xxx-dal-vivo.com^
-||xxx-fotos.com^
-||xxx-mile.com^
-||xxx-office.net^
-||xxx-porn-tube.com^
-||xxx-search.com^
-||xxx-startpagina.be^
-||xxx-stores.com^
-||xxx-video-indian.com^
-||xxx-wa.com^
-||xxx-xvideos.com^
-||xxx.com^
-||xxx.eu^
-||xxx.fi^
-||xxx.uk^
 ||xxx333.com^
 ||xxx69.net^
 ||xxxcamgirls.com^
@@ -7090,7 +6921,6 @@ yieldlab.net.edgekey.net
 ||yasoess.com^
 ||yd-jun.com^
 ||ydns.eu^
-||ye-sex.com^
 ||yeaydcs.com^
 ||yemantiso.com^
 ||yengo.com^
@@ -7164,8 +6994,6 @@ yieldlab.net.edgekey.net
 ||zentrick.com^
 ||zeotap.com^
 ||zero-limit-poker.com^
-||zero-porn.com^
-||zero-porn.net^
 ||zero-sample.net^
 ||zeronaught.com^
 ||zeroredirect1.com^
