@@ -6,7 +6,6 @@
 
 
 0a0d-d3l1vr.b-cdn.net
-79423.analytics.edgekey.net
 a.teads.tv.edgekey.net
 account.golem.de
 adblockers.b-cdn.net
@@ -39,7 +38,6 @@ audio-ake.spotify.com.edgesuite.net
 auihduiahfduigzygffdztfdcsvcfefoituzegpelpgksdlnvbdshb.s3.eu-central-1.amazonaws.com
 bbangads.b-cdn.net
 bdtt.b-cdn.net
-beamanalytics.b-cdn.net
 bidbarrel.cbsnews.com.edgekey.net
 bkrtx.com.edgekey.net
 bluekai.com.edgekey.net
@@ -149,16 +147,6 @@ log-va.tiktokv.com.edgekey.net
 log.byteoversea.com.edgekey.net
 log16-normal-alisg.tiktokv.com.edgekey.net
 log16-normal-useast2a.tiktokv.com.edgekey.net
-ma1226-r.analytics.edgekey.net
-ma140-r.analytics.edgekey.net
-ma1498-r.analytics.edgekey.net
-ma156-r.analytics.edgekey.net
-ma156-r.analytics.edgesuite.net
-ma193-r.analytics.edgekey.net
-ma277-r.analytics.edgesuite.net
-ma312-r.analytics.edgesuite.net
-ma688-r.analytics.edgekey.net
-ma788-r.analytics.edgekey.net
 marketingassets.staples.com.edgekey.net
 marketo.com.edgekey.net
 marketo.net.edgekey.net
@@ -173,7 +161,6 @@ mon-va.tiktokv.com.edgesuite.net
 monetate.edgekey.net
 mookie1.com.edgekey.net
 ms.applovin.com.edgekey.net
-mybbc-analytics.files.bbci.co.uk.edgekey.net
 newwildcard.evidon.com.edgekey.net
 ntv.io.edgekey.net
 o3kyuku8zn8468pit1p6sdma8hd7xciaaszjp1xc.s3.eu-west-1.amazonaws.com
@@ -236,7 +223,6 @@ troppulsee20epagwpubip02dns.westeurope.cloudapp.azure.com
 unibotscdn.b-cdn.net
 v.dable.io.edgekey.net
 v1.addthisedge.com.edgekey.net
-v6analytics.htmedia.in.edgekey.net
 valueclick.com.edgekey.net
 video-outstream.rubiconproject.com.edgekey.net
 vungle.com.edgekey.net
@@ -564,6 +550,7 @@ yieldlab.net.edgekey.net
 ||adhaven.com^
 ||adhese.be^
 ||adhese.com^
+||adhigh.net^
 ||adhitzads.com^
 ||adhocsoup.com^
 ||adikteev.com^
@@ -1124,6 +1111,7 @@ yieldlab.net.edgekey.net
 ||beautyhypnotic.com^
 ||beeplog.de^
 ||beeplog.it^
+||beeppool.org^
 ||beestuneglon.com^
 ||beget.tech^
 ||behance.net^
@@ -1188,7 +1176,6 @@ yieldlab.net.edgekey.net
 ||bilsyndication.com^
 ||bimobject.com^
 ||binance.com^
-||bing-analytics.com^
 ||bing-cdn.com^
 ||bing.com^
 ||bing.net^
@@ -1241,6 +1228,7 @@ yieldlab.net.edgekey.net
 ||blamads.com^
 ||blankakalina.pl^
 ||blazing7slots-email.com^
+||blcdog.com^
 ||blesuites.com^
 ||blexdev.com^
 ||blic.net^
@@ -1354,6 +1342,7 @@ yieldlab.net.edgekey.net
 ||btloader.com^
 ||btntls.pl^
 ||btopenworld.com^
+||btrll.com^
 ||bttrack.com^
 ||bttradespace.com^
 ||btttag.com^
@@ -1566,6 +1555,7 @@ yieldlab.net.edgekey.net
 ||chrono24.fr^
 ||chuairan.com^
 ||chultoux.com^
+||chungshingelectronic.com^
 ||chuptuwais.com^
 ||cibntv.net^
 ||cimbers.com^
@@ -1710,6 +1700,7 @@ yieldlab.net.edgekey.net
 ||com.nl^
 ||com.pl^
 ||com.sa^
+||com02.com^
 ||combotag.com^
 ||comcast.net^
 ||comcastbusiness.net^
@@ -1927,6 +1918,7 @@ yieldlab.net.edgekey.net
 ||de.be^
 ||de.com^
 ||de17a.com^
+||deadhigh.net^
 ||deal.com^
 ||dealer.com^
 ||deals-discounts-codes.com^
@@ -1989,6 +1981,7 @@ yieldlab.net.edgekey.net
 ||digitalalchemy.tv^
 ||digitalboomng.com^
 ||digitalcaramel.com^
+||digitalcourage.de^
 ||digitaldesire.com^
 ||digitale-offensive.de^
 ||digitalealthcare.com^
@@ -2018,6 +2011,7 @@ yieldlab.net.edgekey.net
 ||diji.fr^
 ||dimensiondata.com^
 ||dimseeksa.com^
+||dinastycoin.com^
 ||dinboxesbones.com^
 ||dinercryp.com^
 ||dinerinvite.com^
@@ -2241,6 +2235,7 @@ yieldlab.net.edgekey.net
 ||elabonero.com^
 ||elassar.net^
 ||elasticbeanstalk.com^
+||elasticpool.com^
 ||elastx.net^
 ||elbavietnam.com^
 ||electronicamarvan.com^
@@ -2469,8 +2464,6 @@ yieldlab.net.edgekey.net
 ||fernemillen.com^
 ||ferozo.com^
 ||ferya.com^
-||fetish-clips4sale.com^
-||fetish-nextdoor.com^
 ||fetlife.com^
 ||feudelesprit.com^
 ||ff-bt.net^
@@ -2514,7 +2507,6 @@ yieldlab.net.edgekey.net
 ||fissk.com^
 ||fit-in.net^
 ||fit-nutrition.info^
-||fitanalytics.com^
 ||fitliness.com^
 ||fitnessawaree.com^
 ||fitnessmagazin.de^
@@ -2582,12 +2574,12 @@ yieldlab.net.edgekey.net
 ||foto-eros.com^
 ||fotocolombo.it^
 ||fotzenbilder.net^
-||fouanalytics.com^
 ||fout.jp^
 ||fozoothezou.com^
 ||fr-face-book.fr^
 ||fr-xvideos.com^
 ||fr.net^
+||frackingminer.com^
 ||fractionalmedia.com^
 ||france-eros.com^
 ||france24.fr^
@@ -2624,6 +2616,7 @@ yieldlab.net.edgekey.net
 ||freehostia.com^
 ||freehosting.net^
 ||freehosty.com^
+||freeitemlist.com^
 ||freeiz.com^
 ||freejpgtopdfconverter.com^
 ||freeones.com^
@@ -2702,7 +2695,6 @@ yieldlab.net.edgekey.net
 ||game-slots777.com^
 ||game-slots777.net^
 ||game-slots777.org^
-||gameanalytics.com^
 ||gamesysgames.com^
 ||gamingweb.de^
 ||gammacdn.com^
@@ -2847,7 +2839,6 @@ yieldlab.net.edgekey.net
 ||goodluckpool.com^
 ||goofull.com^
 ||goog.com^
-||google-analytics.com^
 ||googleadservices.com^
 ||googlecrack.com^
 ||googlemakesmillionaires.com^
@@ -2907,6 +2898,7 @@ yieldlab.net.edgekey.net
 ||gscontxt.net^
 ||gta5.info^
 ||gtempurl.com^
+||gtml2.com^
 ||gu.pl^
 ||gucac.com^
 ||gucci-girls.com^
@@ -2923,6 +2915,7 @@ yieldlab.net.edgekey.net
 ||gxso.net^
 ||h2g.pl^
 ||haciendarealhoa.com^
+||hackerknowledge.de^
 ||had.yt^
 ||hadronid.net^
 ||hairbodysoul.ca^
@@ -2944,6 +2937,7 @@ yieldlab.net.edgekey.net
 ||hashhot.com^
 ||hashlink.eu^
 ||hashluck.net^
+||hashnetwork.net^
 ||hashrate.eu^
 ||hashrefinery.com^
 ||haugraidevu.com^
@@ -2962,7 +2956,6 @@ yieldlab.net.edgekey.net
 ||hdfcbank.com^
 ||he.net^
 ||health-gov-za.org^
-||heapanalytics.com^
 ||heartchakracheckup.com^
 ||heavenhilldistillery.com^
 ||heavy-r.com^
@@ -2990,7 +2983,6 @@ yieldlab.net.edgekey.net
 ||hetcash.com^
 ||hetxpand.be^
 ||hewhimaulols.com^
-||hexagon-analytics.com^
 ||hexun.com^
 ||hey.com^
 ||hgrtb.com^
@@ -3018,6 +3010,7 @@ yieldlab.net.edgekey.net
 ||hillsdaletravel.com^
 ||hinet.net^
 ||hinote13.com^
+||hipnotizedo.com^
 ||hiprofitnetworks.com^
 ||hispavista.es^
 ||hispeed.ch^
@@ -3093,10 +3086,10 @@ yieldlab.net.edgekey.net
 ||hotpage.net^
 ||hotpaginas.com^
 ||hotpepper.jp^
+||houdinido.com^
 ||houseofbilocca.com^
 ||houseoftara.com^
 ||houston-eros.com^
-||hpanalytics.net^
 ||hpfart.com^
 ||hpool.com^
 ||hpyrdr.com^
@@ -3104,7 +3097,6 @@ yieldlab.net.edgekey.net
 ||hq-xvideos.com^
 ||hqsearch.net^
 ||hrwallingfords.com^
-||hs-analytics.net^
 ||hs-banner.com^
 ||hsadspixel.net^
 ||hscollectedforms.net^
@@ -3246,6 +3238,7 @@ yieldlab.net.edgekey.net
 ||inflectioninflection.com^
 ||influencedfable.com^
 ||info-mania.eu^
+||info-refugies.fr^
 ||info.com^
 ||info379.com^
 ||infoave.net^
@@ -3452,6 +3445,7 @@ yieldlab.net.edgekey.net
 ||jll.it^
 ||jll.nl^
 ||jll.pl^
+||jlmeast.com^
 ||jmp9.com^
 ||jnsiematcnc.com^
 ||joacupoahy.com^
@@ -3497,6 +3491,7 @@ yieldlab.net.edgekey.net
 ||justdied.com^
 ||justgreece.org^
 ||justinstalledpanel.com^
+||justplayzone.com^
 ||justpremium.com^
 ||jviloria.com^
 ||jwpltx.com^
@@ -3577,6 +3572,7 @@ yieldlab.net.edgekey.net
 ||kom-co.jp^
 ||komornik.pl^
 ||konarkindex.com^
+||kontera.com^
 ||konyaterzi.com^
 ||kooboaphe.com^
 ||koocauboadoy.com^
@@ -4734,7 +4730,6 @@ yieldlab.net.edgekey.net
 ||pirater-compte-skype.com^
 ||piratesfile.com^
 ||piratman.com^
-||pixanalytics.com^
 ||pixelfast.com^
 ||pixelspals.com^
 ||pixfuture.net^
@@ -5137,6 +5132,7 @@ yieldlab.net.edgekey.net
 ||run-net.tokyo^
 ||run-syndicate.com^
 ||run.app^
+||runbox.com^
 ||runelocus.com^
 ||runwaywork.com^
 ||russellgrant.com^
@@ -5331,6 +5327,7 @@ yieldlab.net.edgekey.net
 ||sharezips.info^
 ||sharezips.net^
 ||sharingbareng.com^
+||shauhe.com^
 ||shauthalaid.com^
 ||shauva.com^
 ||shaw.ca^
@@ -5382,7 +5379,6 @@ yieldlab.net.edgekey.net
 ||siteburg.com^
 ||sitegiant.info^
 ||sitegoz.com^
-||siteimproveanalytics.com^
 ||sitesap.gr^
 ||sitescout.com^
 ||sitetracker.com^
@@ -5663,6 +5659,7 @@ yieldlab.net.edgekey.net
 ||swrve.com^
 ||sx-app.com^
 ||sxx.com^
+||sxyman.com^
 ||sydneypropertyinvestors.com^
 ||sydztc2012.com^
 ||symantec.com^
@@ -5866,7 +5863,6 @@ yieldlab.net.edgekey.net
 ||top-xhamster.com^
 ||top-xvideos.com^
 ||top5320.info^
-||topaz-analytics.com^
 ||topcities.com^
 ||topclick.com^
 ||topflownews.com^
@@ -6637,6 +6633,9 @@ yieldlab.net.edgekey.net
 ||zaam.net^
 ||zab175.com^
 ||zaganashoney.gr^
+||zaigloophour.com^
+||zailoanoy.com^
+||zaishaptou.com^
 ||zaleempi.com^
 ||zaloapp.com^
 ||zango.com^
@@ -6652,6 +6651,8 @@ yieldlab.net.edgekey.net
 ||zeblog.com^
 ||zeckaideed.com^
 ||zedo.com^
+||zeepteestaub.com^
+||zegocloud.com^
 ||zemanta.com^
 ||zenewsdujour.com^
 ||zentrick.com^
@@ -6679,6 +6680,7 @@ yieldlab.net.edgekey.net
 ||zip.net^
 ||zip.pl^
 ||zipzappromos.com^
+||zitchuhoove.com^
 ||zittxrth.com^
 ||ziz66.com^
 ||zjlions.org^
