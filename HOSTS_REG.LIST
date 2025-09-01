@@ -397,7 +397,6 @@ berlinpubcrawl.azurewebsites.net
 bhenergy.centralus.cloudapp.azure.com
 bidbarrel.cbsnews.com.edgekey.net
 bilder-a.akamaihd.net
-bitcoin.com.cdn.cloudflare.net
 bkrtx.com.edgekey.net
 blacktri-a.akamaihd.net
 blognewsalphaapijson.azurewebsites.net
@@ -1280,7 +1279,6 @@ www.aisvip-a.akamaihd.net
 www.akamaihd.net
 www.auihduiahfduigzygffdztfdcsvcfefoituzegpelpgksdlnvbdshb.s3.eu-central-1.amazonaws.com
 www.bbeaesserv8637.wpenginepowered.com
-www.bitcoin.com.cdn.cloudflare.net
 www.cillaangeline.googlepages.com
 www.cmp-cdn.golem.de
 www.crazyegg.com.cdn.cloudflare.net
@@ -1409,7 +1407,6 @@ zynga2-a.akamaihd.net
 ||100procentmarjolijn.nl^
 ||104089.com^
 ||120ask.com^
-||123-bitcoin.de^
 ||125mb.com^
 ||12gbfree.com^
 ||12p.info^
@@ -2375,13 +2372,6 @@ zynga2-a.akamaihd.net
 ||bishopcarpenterschool.net^
 ||bissailre.com^
 ||bitballoon.com^
-||bitcoin-pool.de^
-||bitcoin-server.de^
-||bitcoin.com^
-||bitcoin.cz^
-||bitcoin.de^
-||bitcoindark.ca^
-||bitcoinrh.org^
 ||bitfinex.com^
 ||bitiba.cz^
 ||bitiba.de^
@@ -2689,6 +2679,7 @@ zynga2-a.akamaihd.net
 ||cdn77.org^
 ||cdnads.com^
 ||cdnbasket.net^
+||cdnbm.net^
 ||cdnbuild.net^
 ||cdnga.net^
 ||cdngslb.com^
@@ -3110,6 +3101,7 @@ zynga2-a.akamaihd.net
 ||cxense.com^
 ||cybees.com^
 ||cybergolem.de^
+||cybermonitor.com^
 ||cybersnetwork.com^
 ||cyberspacehq.com^
 ||cz889.com^
@@ -3218,7 +3210,6 @@ zynga2-a.akamaihd.net
 ||destaque-relampago-de-verao.com^
 ||destinytowealth.com^
 ||deufiles.com^
-||deutsche-bitcoin.de^
 ||deutsh-deutsh.de^
 ||developmentad.com^
 ||deviatestartblock.com^
@@ -3779,6 +3770,7 @@ zynga2-a.akamaihd.net
 ||feudelesprit.com^
 ||fewpb.net^
 ||ff-bt.net^
+||ffwap.com^
 ||fickauchi.com^
 ||fickmoesen.com^
 ||fidelity-access-gh.com^
@@ -4501,6 +4493,7 @@ zynga2-a.akamaihd.net
 ||hyprmx.com^
 ||hyros.com^
 ||i-gloo.net^
+||i-verizon.net^
 ||i-voyeurweb.com^
 ||i12.com^
 ||i18n-pglstatp.com^
@@ -5020,6 +5013,7 @@ zynga2-a.akamaihd.net
 ||ksapisrv.com^
 ||ksmobile.com^
 ||ksyna.net^
+||ku6.com^
 ||kuai-go.com^
 ||kuaizhan.com^
 ||kuditealnsunyi.com^
@@ -5223,6 +5217,7 @@ zynga2-a.akamaihd.net
 ||lomlismiskur.com^
 ||london-eros.com^
 ||longbridgesocial.com^
+||loomia.com^
 ||loozer.com^
 ||lorps.pl^
 ||loseyourip.com^
@@ -5536,6 +5531,7 @@ zynga2-a.akamaihd.net
 ||moneroworld.com^
 ||monetate.net^
 ||moneybiggest.com^
+||moneycontrol.com^
 ||mongodb.net^
 ||monornet.hu^
 ||monprofil.be^
@@ -5997,6 +5993,7 @@ zynga2-a.akamaihd.net
 ||online-dailynews.com^
 ||online-kargo.com^
 ||online-metrix.net^
+||online-slot-machine.net^
 ||online.fr^
 ||online147.com^
 ||onlineantiepidemic-material.com^
@@ -6649,6 +6646,7 @@ zynga2-a.akamaihd.net
 ||riskaka.com^
 ||riskified.com^
 ||riverty.com^
+||rivnetwork.com^
 ||rk.com^
 ||rkdmedia.nl^
 ||rkdms.com^
@@ -7006,8 +7004,11 @@ zynga2-a.akamaihd.net
 ||slavicfamily.org^
 ||sleepyhighway.com^
 ||sling.com^
+||slot-machine-games.net^
 ||slots-bar.com^
 ||slots-games-free-today.com^
+||slots-machine.info^
+||slots-machine.org^
 ||slots4play.com^
 ||slots7777.com^
 ||slotshaven.it^
@@ -7185,6 +7186,7 @@ zynga2-a.akamaihd.net
 ||staticip.de^
 ||statictab.com^
 ||stationnose.kim^
+||stats.de^
 ||statsig.com^
 ||staubsuthil.com^
 ||staysafe2.com^
@@ -7247,6 +7249,7 @@ zynga2-a.akamaihd.net
 ||superhost.pl^
 ||superserwisy.pl^
 ||supersonicads.com^
+||superstat.info^
 ||superstats.com^
 ||supervisioncenter.com^
 ||supfast.net^
@@ -7295,6 +7298,7 @@ zynga2-a.akamaihd.net
 ||t-online.hu^
 ||t-update.net^
 ||t1nkem.com^
+||t2t2.com^
 ||ta3asteria.gr^
 ||tab-cilis.info^
 ||tab-lo.com^
@@ -7356,6 +7360,7 @@ zynga2-a.akamaihd.net
 ||techno-sphere.com^
 ||technology-executive.com^
 ||technoratimedia.com^
+||tedo-stats.de^
 ||tedzworks.com^
 ||teedelconsulting.com^
 ||teen-babe-nextdoor.com^
@@ -7575,6 +7580,7 @@ zynga2-a.akamaihd.net
 ||tracker-api.my.com^
 ||trackjs.com^
 ||trackonomics.net^
+||trackstatisticsss.com^
 ||tracto-pieces.fr^
 ||trade-capex-app.com^
 ||trade-edge-ai.org^
@@ -7780,6 +7786,7 @@ zynga2-a.akamaihd.net
 ||utimen.com^
 ||utopiad.com^
 ||uu.net^
+||uustoughtonma.org^
 ||uwastehons.com^
 ||uweflade.de^
 ||uwstart.nl^
@@ -7826,6 +7833,7 @@ zynga2-a.akamaihd.net
 ||verificatlonsupport.com^
 ||verisign-grs.com^
 ||vertamedia.com^
+||verycd.com^
 ||vespaclub.com^
 ||vezineconcepts.com^
 ||vfgte.com^
@@ -7881,6 +7889,7 @@ zynga2-a.akamaihd.net
 ||vishou.net^
 ||visiblemeasures.com^
 ||visioncritical.com^
+||visitor-stats.de^
 ||visolaw.pl^
 ||vispa.com^
 ||vistvx.pl^
@@ -8009,6 +8018,7 @@ zynga2-a.akamaihd.net
 ||wcbackoffice.com^
 ||wcomhost.com^
 ||wd2go.com^
+||we-stats.com^
 ||wealthydrawer.com^
 ||wearyourambition.com^
 ||web-cam-girls.info^
