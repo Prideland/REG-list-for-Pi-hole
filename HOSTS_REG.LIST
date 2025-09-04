@@ -293,7 +293,6 @@ adsimg.kompas.com.edgesuite.net
 adsninja.b-cdn.net
 adstatic.b-cdn.net
 adverster.b-cdn.net
-advertiserconnection.azurewebsites.net
 affiliates.fakespot.nonprod.webservices.mozgcp.net
 affiliates.greentreeone.com.cdn.cloudflare.net
 afs.googleusercontent.com
@@ -1397,6 +1396,8 @@ zynga2-a.akamaihd.net
 ||0scotia.com^
 ||0x1f4b0.com^
 ||0xhost.net^
+||1-833-rogers.com^
+||1-844-rogers.com^
 ||1-anwalt.de^
 ||1-livejasmin.com^
 ||10001mb.com^
@@ -1597,7 +1598,6 @@ zynga2-a.akamaihd.net
 ||abzorbagames.com^
 ||ac-strasbourg.fr^
 ||ac.jp^
-||ac.th^
 ||ac.uk^
 ||acadianafriends.com^
 ||acaog.com^
@@ -1790,9 +1790,6 @@ zynga2-a.akamaihd.net
 ||adventori.com^
 ||adveraction.pl^
 ||adversal.com^
-||advertisingindonesia.net^
-||advertnative.com^
-||advertserve.com^
 ||adviad.com^
 ||advision-adnw.jp^
 ||adworldmedia.com^
@@ -1802,6 +1799,7 @@ zynga2-a.akamaihd.net
 ||adzmedia.com^
 ||ae.com^
 ||ae.org^
+||aebn.net^
 ||aen.pl^
 ||aeonminingpool.com^
 ||aerisapi.com^
@@ -2162,7 +2160,6 @@ zynga2-a.akamaihd.net
 ||averdo.net^
 ||avon.com^
 ||aw-pay.com^
-||awardsandadvertising.com^
 ||awelsorsulte.com^
 ||awemdia.com^
 ||awesomewebspace.com^
@@ -2223,6 +2220,7 @@ zynga2-a.akamaihd.net
 ||baiweero.com^
 ||balakapi.com^
 ||balivillarent.com^
+||ballscrew-z.com^
 ||balor-ghn.com^
 ||bamcoitau.com^
 ||banamex.com^
@@ -2234,6 +2232,8 @@ zynga2-a.akamaihd.net
 ||bar-bar.com^
 ||bar-bi.fr^
 ||bar.org^
+||baradua.it^
+||baraga.org^
 ||barefoot.dk^
 ||barginginfrance.net^
 ||baseball-jacks.nl^
@@ -2445,7 +2445,6 @@ zynga2-a.akamaihd.net
 ||bloxode.com^
 ||blue-coder.de^
 ||blue-lives.com^
-||blueadvertise.com^
 ||bluecava.com^
 ||blueconic.net^
 ||bluediamondpi.com^
@@ -2819,6 +2818,7 @@ zynga2-a.akamaihd.net
 ||clicksor.net^
 ||clicksure.com^
 ||clicktale.net^
+||clicktripz.com^
 ||clickxchange.com^
 ||client-redirection.com^
 ||cliente-mob.com^
@@ -2862,7 +2862,6 @@ zynga2-a.akamaihd.net
 ||co.jp^
 ||co.nl^
 ||co.pl^
-||co.th^
 ||co.tv^
 ||co.uk^
 ||coachclarissa.com^
@@ -2899,7 +2898,6 @@ zynga2-a.akamaihd.net
 ||cojiendogratis.com^
 ||cokribsauty.com^
 ||cola-ge.com^
-||colachiadvertising.com^
 ||colba.net^
 ||coldcertainchannel.com^
 ||collect20.com^
@@ -2933,7 +2931,6 @@ zynga2-a.akamaihd.net
 ||com.jm^
 ||com.nl^
 ||com.pl^
-||com.sa^
 ||com02.com^
 ||combotag.com^
 ||comcast.net^
@@ -3017,6 +3014,7 @@ zynga2-a.akamaihd.net
 ||coull.com^
 ||coupons.com^
 ||coupteew.com^
+||courserasme.be^
 ||covad.net^
 ||cowblog.fr^
 ||cox.net^
@@ -3048,7 +3046,6 @@ zynga2-a.akamaihd.net
 ||creditwretchdestruct.com^
 ||cresa.com^
 ||cricket-clothing.com^
-||crispadvertising.com^
 ||criteo.com^
 ||criteo.net^
 ||critimater.com^
@@ -3288,7 +3285,6 @@ zynga2-a.akamaihd.net
 ||directtrack.com^
 ||dirks.pl^
 ||discount-oase.de^
-||disneyadvertising.com^
 ||displayadfeed.com^
 ||distribuidoragarcia.com^
 ||distributionrealmoth.com^
@@ -3361,6 +3357,7 @@ zynga2-a.akamaihd.net
 ||doublemax.net^
 ||doublepimp.com^
 ||doublevlick.com^
+||douglassstevens.com^
 ||doukoula.com^
 ||douwhawez.com^
 ||download-accelerator.com^
@@ -3487,7 +3484,6 @@ zynga2-a.akamaihd.net
 ||editmysite.com^
 ||edj.pl^
 ||edu.pl^
-||edu.sa^
 ||education.no^
 ||eecheweegru.com^
 ||eeetivsc.com^
@@ -3597,7 +3593,6 @@ zynga2-a.akamaihd.net
 ||ereerdepi.com^
 ||eresmas.net^
 ||erfurt16.de^
-||eroadvertising.com^
 ||erog.fr^
 ||eros.com^
 ||eruthoxup.com^
@@ -4002,6 +3997,7 @@ zynga2-a.akamaihd.net
 ||g-shorturl.com^
 ||g0g.net^
 ||g2afse.com^
+||gabrielnorbert.pl^
 ||gadgetsouts.com^
 ||gainensoft.com^
 ||gaishaisteth.com^
@@ -4149,9 +4145,9 @@ zynga2-a.akamaihd.net
 ||gmo.jp^
 ||gmxhome.de^
 ||gncia.fr^
+||gniewkorako.pl^
 ||gnx.de^
 ||go-mpulse.net^
-||go.th^
 ||go2affise.com^
 ||go2cloud.org^
 ||goblender.ca^
@@ -4210,6 +4206,7 @@ zynga2-a.akamaihd.net
 ||gratishost.com^
 ||graystonedesigns.com^
 ||greekgodsyogurt.com^
+||greenbrookrec.org^
 ||greenparrot.pl^
 ||greggblake.com^
 ||gregorzkucha.pl^
@@ -4361,6 +4358,7 @@ zynga2-a.akamaihd.net
 ||hinote13.com^
 ||hipnotizedo.com^
 ||hiprofitnetworks.com^
+||hismarttv.com^
 ||hispavista.es^
 ||hispeed.ch^
 ||hitbox.com^
@@ -4390,6 +4388,7 @@ zynga2-a.akamaihd.net
 ||hola.org^
 ||hols26.com^
 ||holypuss.com^
+||homayungas.com^
 ||home.pl^
 ||homeabout.de^
 ||homecenter-inc.com^
@@ -4473,6 +4472,8 @@ zynga2-a.akamaihd.net
 ||hu.cz^
 ||hu.pl^
 ||hubapi.com^
+||hubbies.com^
+||hubblex.com^
 ||hubside.fr^
 ||hubspot.com^
 ||hubspotfree.com^
@@ -4584,7 +4585,6 @@ zynga2-a.akamaihd.net
 ||imtwjwoasak.com^
 ||in-silhouette.com^
 ||in.net^
-||in.th^
 ||inc-system.com^
 ||inclk.com^
 ||incorpbb.com^
@@ -4794,7 +4794,6 @@ zynga2-a.akamaihd.net
 ||jamster.com^
 ||jandahotpro.com^
 ||janestube.com^
-||jarakadvertising.com^
 ||jarsat.pl^
 ||jasmin-livejasmin.com^
 ||jaworski-komornik.pl^
@@ -4999,7 +4998,6 @@ zynga2-a.akamaihd.net
 ||kpmg.ca^
 ||kpmg.com^
 ||kpn.com^
-||kpsadvertising.com^
 ||kpym.fr^
 ||kr.com^
 ||krackersinfotech.com^
@@ -5162,7 +5160,6 @@ zynga2-a.akamaihd.net
 ||little-mango.com^
 ||liuxue998.com^
 ||live.fr^
-||liveadvert.com^
 ||livebaccaratsbobet.org^
 ||livechatinc.com^
 ||livedoor.jp^
@@ -5274,7 +5271,6 @@ zynga2-a.akamaihd.net
 ||m-gate.net^
 ||m.zero-in.net^
 ||m0l.net^
-||m7md1.sa^
 ||m80marketing.com^
 ||ma-espace-fr.info^
 ||maakjestart.nl^
@@ -5411,7 +5407,6 @@ zynga2-a.akamaihd.net
 ||mgslb.com^
 ||mgtv.com^
 ||mi-img.com^
-||mi.th^
 ||mia-amica.com^
 ||mialias.net^
 ||miaozhen.com^
@@ -5988,7 +5983,6 @@ zynga2-a.akamaihd.net
 ||ong-madagascar.org^
 ||onjc.cz^
 ||onjoyri.de^
-||online-advertisings.com^
 ||online-bk.com^
 ||online-dailynews.com^
 ||online-kargo.com^
@@ -6006,7 +6000,6 @@ zynga2-a.akamaihd.net
 ||onlyassigncoherence.com^
 ||onmicrosoft.com^
 ||ono.com^
-||onrampadvertising.com^
 ||onrender.com^
 ||ontheweb.nl^
 ||onthewifi.com^
@@ -6062,7 +6055,6 @@ zynga2-a.akamaihd.net
 ||orangeads.fr^
 ||orbisvideo.com^
 ||org.pl^
-||org.sa^
 ||org.uk^
 ||orgfree.com^
 ||originclub.com^
@@ -6354,6 +6346,7 @@ zynga2-a.akamaihd.net
 ||premium-traveler.de^
 ||premiumbilling.com^
 ||premiumboxes.com^
+||prepago-telcel.com^
 ||prepaiddomain.de^
 ||prepettire.com^
 ||press-bookonline.com^
@@ -6657,6 +6650,7 @@ zynga2-a.akamaihd.net
 ||roadsterbox.org^
 ||rocket-affiliates.com^
 ||rockpapershotgun.com^
+||rogers.com^
 ||roggiehouse.it^
 ||rogibgroup.com^
 ||rohnecommunications.com^
@@ -6664,6 +6658,9 @@ zynga2-a.akamaihd.net
 ||roku.com^
 ||roleplayingtips.com^
 ||romadavincci1671.com^
+||romankyo.com^
+||rooglomitaiy.com^
+||rookechew.com^
 ||rookierescuer.com^
 ||roowei.com^
 ||roropig.com^
@@ -6824,6 +6821,7 @@ zynga2-a.akamaihd.net
 ||seedtag.com^
 ||seek.com^
 ||seekmo.com^
+||seeweb.it^
 ||seewhy.com^
 ||segment.com^
 ||seisansei-koujou.com^
@@ -7128,6 +7126,7 @@ zynga2-a.akamaihd.net
 ||springserve.com^
 ||springshipping.com^
 ||sprinklr.com^
+||spsglobal.com^
 ||spyheal.com^
 ||spylog.com^
 ||squarebob.com^
@@ -7148,6 +7147,7 @@ zynga2-a.akamaihd.net
 ||st0ry.com^
 ||stackadapt.com^
 ||stacker.app^
+||stackpathcdn.com^
 ||stackpathdns.com^
 ||stacksocial.com^
 ||stada-vn.com^
@@ -7246,6 +7246,7 @@ zynga2-a.akamaihd.net
 ||superawesome.tv^
 ||superczech.com^
 ||superface.net^
+||superfreehost.org^
 ||superhost.pl^
 ||superserwisy.pl^
 ||supersonicads.com^
@@ -7282,6 +7283,7 @@ zynga2-a.akamaihd.net
 ||switchadhub.com^
 ||swrve.com^
 ||sx-app.com^
+||sxload.com^
 ||sxx.com^
 ||sxyman.com^
 ||sydneypropertyinvestors.com^
@@ -7371,6 +7373,7 @@ zynga2-a.akamaihd.net
 ||teepotrn.com^
 ||tehran123.ir^
 ||teknikcammarket.com^
+||telcel.com^
 ||telecable.es^
 ||telecablenet.com^
 ||telecharger-avast.com^
@@ -7419,6 +7422,7 @@ zynga2-a.akamaihd.net
 ||thatexoticvibe-melbourne-escorts.com^
 ||thathowhoas.com^
 ||thawaslobem.com^
+||thd-web.jp^
 ||the-ozone-project.com^
 ||the-xvideos.com^
 ||the222.ca^
@@ -7469,8 +7473,13 @@ zynga2-a.akamaihd.net
 ||thuphedsaup.com^
 ||thuptaiptid.com^
 ||thursailso.com^
+||tiaa-cref.org^
+||tiaa.org^
 ||ticketszones.com^
 ||tidaltv.com^
+||tienda-de-puros.de^
+||tienda-online.com^
+||tienda.com^
 ||tiktokv.com^
 ||timbulbaru.com^
 ||timeslots.pl^
@@ -7515,6 +7524,7 @@ zynga2-a.akamaihd.net
 ||top-pagina.nl^
 ||top-xhamster.com^
 ||top-xvideos.com^
+||top100.org^
 ||top5320.info^
 ||topcities.com^
 ||topclick.com^
@@ -7544,7 +7554,6 @@ zynga2-a.akamaihd.net
 ||toray-my.com^
 ||torgadroukr.com^
 ||torhelper.pl^
-||toroadvertising.com^
 ||torun.pl^
 ||toservers.com^
 ||tosima.de^
@@ -8304,10 +8313,10 @@ zynga2-a.akamaihd.net
 ||yasoess.com^
 ||yd-jun.com^
 ||ydns.eu^
+||yeahlinks.com^
 ||yeaydcs.com^
 ||yemantiso.com^
 ||yengo.com^
-||yesadvertising.com^
 ||ygto.com^
 ||yi.org^
 ||yida558.com^
